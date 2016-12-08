@@ -3,7 +3,7 @@
 int main(int argc, char const *argv[]) {
   char kamoku;
   int ten;
-
+  int aaa;
   printf("科目を選択して下さい(k:国語、s:数学)　：\n" );
   scanf("%*c%c", &kamoku );
 
