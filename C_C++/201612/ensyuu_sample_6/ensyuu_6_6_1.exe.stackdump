@@ -1,0 +1,9 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=004012FC
+eax=00001D17 ebx=0022CCAC ecx=0022C9A4 edx=00000000 esi=61329D2E edi=611E7F32
+ebp=0022CC88 esp=0022CB80 program=C:\Users\fujiokk\Desktop\2016年\ぷろぐらむ\C_test\C_C++\201612\ensyuu_sample_6\ensyuu_6_6_1.exe, pid 9640, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0022CC88  004012FC (00000001, 0022CCAC, 20010100, 61007D35)
+0022CD28  61007D9A (00000000, 0022CD84, 61006DC0, 00000000)
+End of stack trace
