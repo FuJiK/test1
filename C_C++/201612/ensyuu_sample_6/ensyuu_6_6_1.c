@@ -15,9 +15,10 @@ int main(int argc, char const *argv[]) {
       return 0;
   }
 
+
     printf("%d / %d = ", a , b );
     kekka[0] = a/b;
-    for ( i = 1; i < 51;i++) {
+    for (i = 1; i < 51;i++) {
       amari = a%b;
       if (amari == 0){
         break;
@@ -30,6 +31,5 @@ int main(int argc, char const *argv[]) {
       printf("%d",kekka[a]);
     }
     printf("\n");
-
     return 0;
 }
