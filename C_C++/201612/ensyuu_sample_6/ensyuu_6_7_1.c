@@ -17,7 +17,7 @@ data1 = 0.800000
 =====================
 */
 
-#include "stdio.h"
+#include <stdio.h>
 int main(int argc, char const *argv[]) {
   double data1,data2;
   data1 = 100.0;

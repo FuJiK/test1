@@ -1,4 +1,4 @@
-#include "stdio.h"
+#include <stdio.h>
 int main(int argc, char const *argv[]) {
   char moji;
   printf("文字を入力しなさい　:" );
